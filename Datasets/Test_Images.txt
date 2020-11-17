@@ -1,0 +1,11 @@
+Test Images for Dogs
+
+Dog 1: Collie
+https://c5.staticflickr.com/5/4034/4395303654_3e600f5764_o.jpg
+
+Dog 2: Husky
+https://c4.staticflickr.com/2/1063/1296614867_05561107a3_o.jpg
+
+Dog 3: Beagle?
+https://farm6.staticflickr.com/8101/8636814108_2b022799fd_o.jpg
+
